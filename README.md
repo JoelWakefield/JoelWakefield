@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Joel! (he/him)
+I'm a Software Engineer by trade and a software enthusiast by hobby. I'm currently looking for work, and I've got several years of business application development using .NET and some web development experience using React.
 
-<!--
-**JoelWakefield/JoelWakefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+I work on games in my spare time, and I plan to publish something very soon.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Godot
+- Rust (Bevy)
+- Blazor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+You can find me at [LinkedIn](https://www.linkedin.com/in/joel-t-wakefield/).
+
+## ⚡ Fun fact
+I do some amatuer voice acting.
