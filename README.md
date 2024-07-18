@@ -5,9 +5,9 @@ I'm a Software Engineer by trade and a software enthusiast by hobby. I'm current
 I work on games in my spare time, and I plan to publish something very soon (I'll post a link when it is).
 
 ## 🌱 I’m currently learning
+- Blazor
 - Godot
 - Rust (Bevy)
-- Blazor
 
 ## 📫 How to reach me
 You can find me at [LinkedIn](https://www.linkedin.com/in/joel-t-wakefield/).
