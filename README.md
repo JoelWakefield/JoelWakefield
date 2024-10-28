@@ -14,4 +14,4 @@ In my spare time, I work on games. I plan to publish something very soon (I'll p
 You can find me at [LinkedIn](https://www.linkedin.com/in/joel-t-wakefield/).
 
 ## ⚡ Fun fact
-I do some amatuer voice acting.
+I do game developement - check out my other [github](https://github.com/Wake1st).
